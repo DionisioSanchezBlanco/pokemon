@@ -16,9 +16,9 @@ License URI: http://www.gnu.org/licenses/agpl-3.0.html
 * Create "pokemon" post type.
 * Custom fields for Pokemon features.
 * Connection with Pokeapi to get random pokemon data.
-* Get random Pokemon post: https://yourdomain/random
-* Creating Pokemons posts using Pokeapi data: https://yourdomain/generate
-* Endpoint to get Pokemon posts: https://yourdomain/wp-json/pokemon/v2/all-pokemons
+* Get random Pokemon post: https://localhost/pokemon/random
+* Creating Pokemons posts using Pokeapi data: https://localhost/pokemon/generate
+* Endpoint to get Pokemon posts: https://localhost/pokemon/wp-json/pokemon/v2/all-pokemons
 
 == Installation ==
 
